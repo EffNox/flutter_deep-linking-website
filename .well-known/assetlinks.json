@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.effnox.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["58:88:AA:6A:D2:9F:49:BA:9E:A1:E4:05:21:8B:F4:A5:5D:36:FE:62:10:27:20:B0:A9:34:31:8D:A4:2E:34:89"]
+    }
+}]
